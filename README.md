@@ -24,7 +24,7 @@ You can show/hide the channel list by clicking the "☰" in the upper right corn
   <img src="https://cdn.oto.pet/img/ex_after_l.png" style="display: block; width: auto; height: 500px;">
 </details>
 <div style="text-align: center;">
-  <img src="https://github.com/otoneko1102/hide-discord-channel-list/blob/master/icons/128x128.png?raw=true" alt="Logo" style="display: block; width: auto; height: 128px;">
+  <img src="https://github.com/otnc/hide-discord-channel-list/blob/master/icons/128x128.png?raw=true" alt="Logo" style="display: block; width: auto; height: 128px;">
 </div>
 
 ### Teams
@@ -33,7 +33,7 @@ You can show/hide the channel list by clicking the "☰" in the upper right corn
 
 ### Download
 - [Chrome Webstore](https://chromewebstore.google.com/detail/hide-discord-channel-list/afnnekedjmpfllofmhfaaneckooaconj)
-- [GitHub Releases](https://github.com/otoneko1102/hide-discord-channel-list/releases)
+- [GitHub Releases](https://github.com/otnc/hide-discord-channel-list/releases)
 
 ## Get Support
 <a href="https://discord.gg/yKW8wWKCnS"><img src="https://discordapp.com/api/guilds/1005287561582878800/widget.png?style=banner4" alt="Discord Banner"/></a>
